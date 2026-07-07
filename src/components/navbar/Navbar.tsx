@@ -17,6 +17,10 @@ function Navbar() {
           <Link to="/categorias" className="no-underline text-white hover:underline">
             Categorias
           </Link>
+
+          <Link to="/cadastrarcategoria" className="text-white no-underline hover:underline">
+            Cadastrar categoria
+          </Link>
         </nav>
 
       </div>
